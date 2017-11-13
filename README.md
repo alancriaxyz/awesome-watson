@@ -1,8 +1,11 @@
 # Awesome Watson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/carlosalan/awesome-watson.svg?branch=master)](https://travis-ci.org/carlosalan/awesome-watson)
 
-> A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Watson ecosystem.
+<br>
 
-Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel)
+<p align="center">
+	<a href="https://github.com/sindresorhus/awesome/blob/master/awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
+	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+</p>
 
 ## Table of Contents
 
@@ -87,4 +90,5 @@ Found an awesome package, blog, video etc.? Send me a pull request!
 
 ## License
 
-[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
