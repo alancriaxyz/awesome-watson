@@ -23,6 +23,7 @@
 - [Webinars](#webinars)
 - [Community](#community)
 - [Meetups](#meetups)
+- [Events](#events)
 
 ## Essentials
 
@@ -100,6 +101,10 @@
 ## Meetups
 
 * [All Meetups](https://www.meetup.com/topics/ibm-watson/)
+
+## Events
+
+* [BlueOpen](https://www.blueopen.org)
 
 ## Contributing
 
