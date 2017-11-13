@@ -14,9 +14,7 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
 - [Community](#community)
-- [Jobs](#jobs)
-- [Hosted Development Tools](#hosted-development-tools)
-- [Miscellaneous](#miscellaneous)
+- [Meetups](#meetups)
 
 ## Essentials
 
@@ -30,10 +28,6 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 ## Videos
 
 * [Youtube Channel](https://www.youtube.com/user/IBMWatsonSolutions)
-
-##### Videos
-
-* [Laracon EU 2017](https://laravel.com)
 
 ## Books
 
