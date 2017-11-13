@@ -42,7 +42,7 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 
 ## Projects
 
-* [Chatagram](https://www.ibm.com/watson/developercloud/starter-kits.html)
+* [Chatagram](https://github.com/karanchahal/Chatagram)
 
 ## Examples
 
@@ -53,7 +53,6 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 * [Watson NLC](https://natural-language-classifier-demo.mybluemix.net/)
 * [Watson Speech to Text](https://speech-to-text-demo.mybluemix.net/)
 * [Watson Text to Speech](https://text-to-speech-demo.mybluemix.net/)
-* [Watson NLC](https://natural-language-classifier-demo.mybluemix.net/)
 * [Watson Personality Insights](https://personality-insights-livedemo.mybluemix.net/)
 * [Watson Tone Analyzer](https://tone-analyzer-demo.mybluemix.net/)
 * [Watson Language Translator](https://language-translator-demo.mybluemix.net/)
