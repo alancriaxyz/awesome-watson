@@ -22,13 +22,13 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 ## Essentials
 
 * [Laravel](https://laravel.com)
-* [Laravel Documentation](https://google.com/)
-* [Laravel API Reference](https://google.com/)
+* [Laravel Documentation](https://laravel.com)
+* [Laravel API Reference](https://laravel.com)
 
 ## Articles, Tutorials, Blogs etc.
 
-* [Tuts+](https://google.com/)
-* [SitePoint](https://google.com/)
+* [Tuts+](https://laravel.com)
+* [SitePoint](https://laravel.com)
 
 ## Videos
 
