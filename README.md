@@ -9,7 +9,6 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 - [Essentials](#essentials)
 - [Articles, Tutorials, Blogs, etc.](#articles-tutorials-blogs-etc)
 - [Videos](#videos)
-- [Conferences](#conferences)
 - [Books](#books)
 - [Starter Projects](#starter-projects)
 - [Newsletters](#newsletters)
@@ -21,23 +20,16 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 
 ## Essentials
 
-* [Laravel](https://github.com/chiraggude/awesome-laravel)
-* [Laravel Documentation](https://laravel.com)
-* [Laravel API Reference](https://laravel.com)
+* [Official Site](https://www.ibm.com/watson/)
 
 ## Articles, Tutorials, Blogs etc.
 
-* [Tuts+](https://laravel.com)
-* [SitePoint](https://laravel.com)
+* [IBM Blog](https://www.ibm.com/blogs/watson/category/cognitive-enterprise/)
+* [Mashable](http://mashable.com/category/ibm-watson/)
 
 ## Videos
 
-* [Laracasts](https://laravel.com)
-* [Coursecode](https://laravel.com) ([YouTube](https://laravel.com))
-
-## Conferences
-
-* [Laracon US](https://laravel.com)
+* [Youtube Channel](https://www.youtube.com/user/IBMWatsonSolutions)
 
 ##### Videos
 
@@ -45,44 +37,28 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 
 ## Books
 
-* [Laravel Starter](https://laravel.com) by Shawn McCool
+* [Learning IBM Watson Analytics](https://www.amazon.com/Learning-Watson-Analytics-James-Miller/dp/1785880772) by James Miller
 
 ## Starter Projects
 
-* [LaraAdmin](https://laravel.com)
+* [Starter Kits](https://www.ibm.com/watson/developercloud/starter-kits.html)
+* [Sample application demonstrating how the Watson APIs can be used to support customer care on Twitter](https://github.com/watson-developer-cloud/social-customer-care)
 
 ## Newsletters
 
-* [Laravel News](https://laravel.com) ([archive](https://laravel.com))
-* [Laravel Weekly](https://laravel.com)
+* [developerWorks Newsletters](https://www.ibm.com/developerworks/newsletter/)
 
 ## Podcasts
 
-* [The Laravel Podcast](https://laravel.com)
+* [IBM Watson player.fm](https://player.fm/series/ibm-watson)
 
 ## Community
 
-* [Laracasts Forum](https://laravel.com)
-
-##### Local User Groups
-
-* [Laravel Brasil](https://laravel.com) ([Facebook group](https://laravel.com), [Slack](https://laravel.com), [Telegram](https://laravel.com), [Google+](https://laravel.com), [GitHub](https://laravel.com))
-* [Laravel Tokyo](https://laravel.com) ([Facebook group](https://laravel.com))
-* [Laravel Hungary](https://laravel.com)
+* [IBM Analytics Communities](https://community.watsonanalytics.com/)
 
 ##### Meetups
 
-* [All Meetups](https://laravel.com)
-* [London Meetup](https://laravel.com)
-
-## Jobs
-
-* [LaraJobs](https://laravel.com)
-* [Laravel Gurus](https://laravel.com)
-
-## Miscellaneous
-
-* [CodeCanyon](https://laravel.com) - Paid scripts and plugins
+* [All Meetups](https://www.meetup.com/topics/ibm-watson/)
 
 ## Contributing
 
