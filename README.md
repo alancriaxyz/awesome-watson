@@ -11,6 +11,8 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 - [Videos](#videos)
 - [Books](#books)
 - [Starter Projects](#starter-projects)
+- [Projects](#projects)
+- [Examples](#examples)
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
 - [Community](#community)
@@ -37,6 +39,24 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 
 * [Starter Kits](https://www.ibm.com/watson/developercloud/starter-kits.html)
 * [Sample application demonstrating how the Watson APIs can be used to support customer care on Twitter](https://github.com/watson-developer-cloud/social-customer-care)
+
+## Projects
+
+* [Chatagram](https://www.ibm.com/watson/developercloud/starter-kits.html)
+
+## Examples
+
+* [Watson Conversation](https://conversation-demo.mybluemix.net/)
+* [Watson Discovery](https://discovery-news-demo.mybluemix.net/)
+* [Watson Visual Recognition](https://visual-recognition-demo.ng.bluemix.net/)
+* [Watson NLU](https://natural-language-understanding-demo.mybluemix.net/)
+* [Watson NLC](https://natural-language-classifier-demo.mybluemix.net/)
+* [Watson Speech to Text](https://speech-to-text-demo.mybluemix.net/)
+* [Watson Text to Speech](https://text-to-speech-demo.mybluemix.net/)
+* [Watson NLC](https://natural-language-classifier-demo.mybluemix.net/)
+* [Watson Personality Insights](https://personality-insights-livedemo.mybluemix.net/)
+* [Watson Tone Analyzer](https://tone-analyzer-demo.mybluemix.net/)
+* [Watson Language Translator](https://language-translator-demo.mybluemix.net/)
 
 ## Newsletters
 
