@@ -34,7 +34,14 @@
 
 ## Videos
 
+### English
+
 * [Youtube Channel](https://www.youtube.com/user/IBMWatsonSolutions)
+
+### Brazilian Portuguese 
+
+* [Canal no Youtube](https://www.youtube.com/user/IBMbrasil)
+* [IBM Watson e a Revolução pela Inteligência Artificial](https://www.youtube.com/watch?v=RL2NuYu4DpA)
 
 ## Books
 
