@@ -22,67 +22,67 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 ## Essentials
 
 * [Laravel](https://laravel.com)
-* [Laravel Documentation](https://laravel.com/docs)
-* [Laravel API Reference](https://laravel.com/api/master/)
+* [Laravel Documentation](https://google.com)
+* [Laravel API Reference](https://google.com)
 
 ## Articles, Tutorials, Blogs etc.
 
-* [Tuts+](http://code.tutsplus.com/categories/laravel)
-* [SitePoint](https://www.sitepoint.com/php/page/0/?filter[4047]=on)
+* [Tuts+](https://google.com)
+* [SitePoint](https://google.com)
 
 ## Videos
 
-* [Laracasts](https://laracasts.com/)
-* [Coursecode](https://www.codecourse.com/) ([YouTube](https://www.youtube.com/user/phpacademy/playlists))
+* [Laracasts](https://google.com)
+* [Coursecode](https://google.com) ([YouTube](https://google.com))
 
 ## Conferences
 
-* [Laracon US](http://laracon.us/)
+* [Laracon US](https://google.com)
 
 ##### Videos
 
-* [Laracon EU 2017](https://www.youtube.com/watch?v=JPxhnRh1Rr8&list=PLMdXHJK-lGoBFZgG2juDXF6LiikpQeLx2)
+* [Laracon EU 2017](https://google.com)
 
 ## Books
 
-* [Laravel Starter](https://www.packtpub.com/web-development/laravel-starter) by Shawn McCool
+* [Laravel Starter](https://google.com) by Shawn McCool
 
 ## Starter Projects
 
-* [LaraAdmin](http://laraadmin.com/)
+* [LaraAdmin](https://google.com)
 
 ## Newsletters
 
-* [Laravel News](https://laravel-news.com/) ([archive](https://laravel-news.com/archive/))
-* [Laravel Weekly](http://laravelweekly.com/)
+* [Laravel News](https://google.com) ([archive](https://google.com))
+* [Laravel Weekly](https://google.com)
 
 ## Podcasts
 
-* [The Laravel Podcast](http://www.laravelpodcast.com/)
+* [The Laravel Podcast](https://google.com)
 
 ## Community
 
-* [Laracasts Forum](https://laracasts.com/discuss)
+* [Laracasts Forum](https://google.com)
 
 ##### Local User Groups
 
-* [Laravel Brasil](http://www.laravel.com.br/) ([Facebook group](https://www.facebook.com/groups/laravelbrasil/), [Slack](http://slack.laravel.com.br), [Telegram](https://telegram.me/laravelbr), [Google+](https://plus.google.com/communities/116661672628675028624), [GitHub](https://github.com/laravelbrasil))
-* [Laravel Tokyo](https://laravel.tokyo/) ([Facebook group](https://www.facebook.com/groups/laraveltokyo/))
-* [Laravel Hungary](https://laravel.hu)
+* [Laravel Brasil](https://google.com) ([Facebook group](https://google.com), [Slack](https://google.com), [Telegram](https://google.com), [Google+](https://google.com), [GitHub](https://google.com))
+* [Laravel Tokyo](https://google.com) ([Facebook group](https://google.com))
+* [Laravel Hungary](https://google.com)
 
 ##### Meetups
 
-* [All Meetups](http://www.meetup.com/topics/laravel/)
-* [London Meetup](https://www.meetup.com/London-Laravel/)
+* [All Meetups](https://google.com)
+* [London Meetup](https://google.com)
 
 ## Jobs
 
-* [LaraJobs](https://larajobs.com/)
-* [Laravel Gurus](https://laravelgurus.com/)
+* [LaraJobs](https://google.com)
+* [Laravel Gurus](https://google.com)
 
 ## Miscellaneous
 
-* [CodeCanyon](https://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
+* [CodeCanyon](https://google.com) - Paid scripts and plugins
 
 ## Contributing
 
