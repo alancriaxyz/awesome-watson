@@ -27,6 +27,7 @@
 
 * [Official Site](https://www.ibm.com/watson/)
 * [IBM Cloud](https://www.ibm.com/cloud/)
+* [Watson Developer Cloud](https://www.ibm.com/watson/developer-2/)
 
 ## Articles, Tutorials, Blogs etc.
 
