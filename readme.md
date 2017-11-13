@@ -67,6 +67,7 @@
 ## Projects
 
 * [Chatagram](https://github.com/karanchahal/Chatagram)
+* [IBM Open Source](http://ibm.github.io)
 
 ## Examples
 
