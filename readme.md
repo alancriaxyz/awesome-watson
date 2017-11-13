@@ -32,7 +32,7 @@
 
 ## Articles, Tutorials, Blogs etc.
 
-* [IBM Blog](https://www.ibm.com/blogs/watson/category/cognitive-enterprise/)
+* [Watson Blog](https://www.ibm.com/blogs/watson/)
 * [Mashable](http://mashable.com/category/ibm-watson/)
 
 ## Videos
