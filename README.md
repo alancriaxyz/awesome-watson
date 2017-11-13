@@ -21,7 +21,7 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 
 ## Essentials
 
-* [Laravel](https://laravel.com)
+* [Laravel](https://github.com/chiraggude/awesome-laravel)
 * [Laravel Documentation](https://laravel.com)
 * [Laravel API Reference](https://laravel.com)
 
