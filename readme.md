@@ -20,6 +20,7 @@
 - [Examples](#examples)
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
+- [Webinars](#webinars)
 - [Community](#community)
 - [Meetups](#meetups)
 
@@ -86,9 +87,14 @@
 
 * [IBM Watson player.fm](https://player.fm/series/ibm-watson)
 
+## Webinars 
+
+* [IBM Webbinars](https://www.ibm.com/watson/webinars/)
+
 ## Community
 
-* [IBM Analytics Communities](https://community.watsonanalytics.com/)
+* [IBM Forum](https://developer.ibm.com/answers/topics/watson/)
+* [StackoverFlow](https://stackoverflow.com/questions/tagged/ibm-watson-cognitive)
 
 ## Meetups
 
