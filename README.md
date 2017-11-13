@@ -32,57 +32,57 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 
 ## Videos
 
-* [Laracasts](https://google.com/)
-* [Coursecode](https://google.com/) ([YouTube](https://google.com/))
+* [Laracasts](https://laravel.com)
+* [Coursecode](https://laravel.com) ([YouTube](https://laravel.com))
 
 ## Conferences
 
-* [Laracon US](https://google.com)
+* [Laracon US](https://laravel.com)
 
 ##### Videos
 
-* [Laracon EU 2017](https://google.com)
+* [Laracon EU 2017](https://laravel.com)
 
 ## Books
 
-* [Laravel Starter](https://google.com) by Shawn McCool
+* [Laravel Starter](https://laravel.com) by Shawn McCool
 
 ## Starter Projects
 
-* [LaraAdmin](https://google.com)
+* [LaraAdmin](https://laravel.com)
 
 ## Newsletters
 
-* [Laravel News](https://google.com) ([archive](https://google.com))
-* [Laravel Weekly](https://google.com)
+* [Laravel News](https://laravel.com) ([archive](https://laravel.com))
+* [Laravel Weekly](https://laravel.com)
 
 ## Podcasts
 
-* [The Laravel Podcast](https://google.com)
+* [The Laravel Podcast](https://laravel.com)
 
 ## Community
 
-* [Laracasts Forum](https://google.com)
+* [Laracasts Forum](https://laravel.com)
 
 ##### Local User Groups
 
-* [Laravel Brasil](https://google.com) ([Facebook group](https://google.com), [Slack](https://google.com), [Telegram](https://google.com), [Google+](https://google.com), [GitHub](https://google.com))
-* [Laravel Tokyo](https://google.com) ([Facebook group](https://google.com))
-* [Laravel Hungary](https://google.com)
+* [Laravel Brasil](https://laravel.com) ([Facebook group](https://laravel.com), [Slack](https://laravel.com), [Telegram](https://laravel.com), [Google+](https://laravel.com), [GitHub](https://laravel.com))
+* [Laravel Tokyo](https://laravel.com) ([Facebook group](https://laravel.com))
+* [Laravel Hungary](https://laravel.com)
 
 ##### Meetups
 
-* [All Meetups](https://google.com)
-* [London Meetup](https://google.com)
+* [All Meetups](https://laravel.com)
+* [London Meetup](https://laravel.com)
 
 ## Jobs
 
-* [LaraJobs](https://google.com)
-* [Laravel Gurus](https://google.com)
+* [LaraJobs](https://laravel.com)
+* [Laravel Gurus](https://laravel.com)
 
 ## Miscellaneous
 
-* [CodeCanyon](https://google.com) - Paid scripts and plugins
+* [CodeCanyon](https://laravel.com) - Paid scripts and plugins
 
 ## Contributing
 
