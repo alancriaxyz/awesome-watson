@@ -1,4 +1,6 @@
-# Awesome Watson [![Awesome] [![Build Status](https://api.travis-ci.org/carlosalan/awesome-watson.svg?branch=master)](https://travis-ci.org/carlosalan/awesome-watson)
+# Awesome Watson [![Awesome] 
+
+[![Build Status](https://api.travis-ci.org/carlosalan/awesome-watson.svg?branch=master)](https://travis-ci.org/carlosalan/awesome-watson)
 
 <br>
 
