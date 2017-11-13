@@ -69,7 +69,7 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 
 * [IBM Analytics Communities](https://community.watsonanalytics.com/)
 
-##### Meetups
+## Meetups
 
 * [All Meetups](https://www.meetup.com/topics/ibm-watson/)
 
