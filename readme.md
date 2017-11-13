@@ -26,6 +26,7 @@
 ## Essentials
 
 * [Official Site](https://www.ibm.com/watson/)
+* [IBM Cloud](https://www.ibm.com/cloud/)
 
 ## Articles, Tutorials, Blogs etc.
 
