@@ -27,8 +27,9 @@
 ## Essentials
 
 * [Official Site](https://www.ibm.com/watson/)
-* [IBM Cloud](https://www.ibm.com/cloud/)
 * [Watson Developer Cloud](https://www.ibm.com/watson/developer-2/)
+* [Watson documentation](https://www.ibm.com/watson/developercloud/doc/index.html)
+* [IBM Cloud](https://www.ibm.com/cloud/)
 
 ## Articles, Tutorials, Blogs etc.
 
