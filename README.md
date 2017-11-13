@@ -22,18 +22,18 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 ## Essentials
 
 * [Laravel](https://laravel.com)
-* [Laravel Documentation](https://google.com)
-* [Laravel API Reference](https://google.com)
+* [Laravel Documentation](https://google.com/)
+* [Laravel API Reference](https://google.com/)
 
 ## Articles, Tutorials, Blogs etc.
 
-* [Tuts+](https://google.com)
-* [SitePoint](https://google.com)
+* [Tuts+](https://google.com/)
+* [SitePoint](https://google.com/)
 
 ## Videos
 
-* [Laracasts](https://google.com)
-* [Coursecode](https://google.com) ([YouTube](https://google.com))
+* [Laracasts](https://google.com/)
+* [Coursecode](https://google.com/) ([YouTube](https://google.com/))
 
 ## Conferences
 
