@@ -35,8 +35,6 @@
 
 ## Social Media
 
-### Twitter
-
 - [Facebook : IBMWatson](https://www.facebook.com/ibmwatson/)
 - [Twitter  : IBM Watson](https://twitter.com/IBMWatson)
 - [Twitter  : IBM Watson IoT](https://twitter.com/IBMIoT)
