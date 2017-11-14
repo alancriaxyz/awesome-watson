@@ -43,6 +43,7 @@
 
 * [Watson Blog](https://www.ibm.com/blogs/watson/)
 * [Mashable](http://mashable.com/category/ibm-watson/)
+* [Tutorials for IBM App Connect](https://developer.ibm.com/integration/docs/app-connect/tutorials-for-ibm-app-connect/)
 
 ## Videos
 
