@@ -37,8 +37,9 @@
 
 ### Twitter
 
-- [IBM Watson](https://twitter.com/IBMWatson)
-- [IBM Watson IoT](https://twitter.com/IBMIoT)
+- [Facebook : IBMWatson](https://www.facebook.com/ibmwatson/)
+- [Twitter  : IBM Watson](https://twitter.com/IBMWatson)
+- [Twitter  : IBM Watson IoT](https://twitter.com/IBMIoT)
 
 ## Articles, Tutorials, Blogs etc.
 
