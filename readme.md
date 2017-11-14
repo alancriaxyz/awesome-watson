@@ -12,6 +12,7 @@
 ## Table of Contents
 
 - [Essentials](#essentials)
+- [Social Media](#social-media)
 - [Articles, Tutorials, Blogs, etc.](#articles-tutorials-blogs-etc)
 - [Videos](#videos)
 - [Books](#books)
@@ -31,6 +32,13 @@
 * [Watson Developer Cloud](https://www.ibm.com/watson/developer-2/)
 * [Watson documentation](https://www.ibm.com/watson/developercloud/doc/index.html)
 * [IBM Cloud](https://www.ibm.com/cloud/)
+
+## Social Media
+
+### Twitter
+
+- [IBM Watson](https://twitter.com/IBMWatson)
+- [IBM Watson IoT](https://twitter.com/IBMIoT)
 
 ## Articles, Tutorials, Blogs etc.
 
