@@ -63,7 +63,7 @@
 * [Watson Personality Insights](https://personality-insights-livedemo.mybluemix.net/)
 * [Watson Tone Analyzer](https://tone-analyzer-demo.mybluemix.net/)
 * [Watson Language Translator](https://language-translator-demo.mybluemix.net/)
-* [IBM Chef Watson](https://www.ibmchefwatson.com/tupler)
+* [IBM Chef Watson](https://www.ibmchefwatson.com)
 
 ## Meetups
 
