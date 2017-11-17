@@ -11,20 +11,34 @@
 
 ## Table of Contents
 
-- [Essentials](#essentials)
-- [Social Media](#social-media)
 - [Articles, Tutorials, Blogs, etc.](#articles-tutorials-blogs-etc)
-- [Videos](#videos)
 - [Books](#books)
-- [Starter Projects](#starter-projects)
-- [Projects](#projects)
+- [Community](#community)
+- [Essentials](#essentials)
+- [Events](#events)
 - [Examples](#examples)
+- [Meetups](#meetups)
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
+- [Projects](#projects)
+- [Social Media](#social-media)
+- [Videos](#videos)
 - [Webinars](#webinars)
-- [Community](#community)
-- [Meetups](#meetups)
-- [Events](#events)
+
+## Articles, Tutorials, Blogs etc.
+
+* [Watson Blog](https://www.ibm.com/blogs/watson/)
+* [Mashable](http://mashable.com/category/ibm-watson/)
+* [Tutorials for IBM App Connect](https://developer.ibm.com/integration/docs/app-connect/tutorials-for-ibm-app-connect/)
+
+## Books
+
+* [Learning IBM Watson Analytics](https://www.amazon.com/Learning-Watson-Analytics-James-Miller/dp/1785880772) by James Miller
+
+## Community
+
+* [IBM Forum](https://developer.ibm.com/answers/topics/watson/)
+* [StackoverFlow](https://stackoverflow.com/questions/tagged/ibm-watson-cognitive)
 
 ## Essentials
 
@@ -33,17 +47,48 @@
 * [Watson documentation](https://www.ibm.com/watson/developercloud/doc/index.html)
 * [IBM Cloud](https://www.ibm.com/cloud/)
 
+## Events
+
+* [BlueOpen](https://www.blueopen.org)
+
+## Examples
+
+* [Watson Conversation](https://conversation-demo.mybluemix.net/)
+* [Watson Discovery](https://discovery-news-demo.mybluemix.net/)
+* [Watson Visual Recognition](https://visual-recognition-demo.ng.bluemix.net/)
+* [Watson NLU](https://natural-language-understanding-demo.mybluemix.net/)
+* [Watson NLC](https://natural-language-classifier-demo.mybluemix.net/)
+* [Watson Speech to Text](https://speech-to-text-demo.mybluemix.net/)
+* [Watson Text to Speech](https://text-to-speech-demo.mybluemix.net/)
+* [Watson Personality Insights](https://personality-insights-livedemo.mybluemix.net/)
+* [Watson Tone Analyzer](https://tone-analyzer-demo.mybluemix.net/)
+* [Watson Language Translator](https://language-translator-demo.mybluemix.net/)
+* [IBM Chef Watson](https://www.ibmchefwatson.com/tupler)
+
+## Meetups
+
+* [All Meetups](https://www.meetup.com/topics/ibm-watson/)
+
+## Newsletters
+
+* [developerWorks Newsletters](https://www.ibm.com/developerworks/newsletter/)
+
+## Podcasts
+
+* [IBM Watson player.fm](https://player.fm/series/ibm-watson)
+
+## Projects
+
+* [Starter Kits](https://www.ibm.com/watson/developercloud/starter-kits.html)
+* [Chatagram](https://github.com/karanchahal/Chatagram)
+* [IBM Open Source](http://ibm.github.io)
+* [Sample application demonstrating how the Watson APIs can be used to support customer care on Twitter](https://github.com/watson-developer-cloud/social-customer-care)
+
 ## Social Media
 
 - [Facebook : IBMWatson](https://www.facebook.com/ibmwatson/)
 - [Twitter  : IBM Watson](https://twitter.com/IBMWatson)
 - [Twitter  : IBM Watson IoT](https://twitter.com/IBMIoT)
-
-## Articles, Tutorials, Blogs etc.
-
-* [Watson Blog](https://www.ibm.com/blogs/watson/)
-* [Mashable](http://mashable.com/category/ibm-watson/)
-* [Tutorials for IBM App Connect](https://developer.ibm.com/integration/docs/app-connect/tutorials-for-ibm-app-connect/)
 
 ## Videos
 
@@ -63,58 +108,9 @@
 
 * [IBM Watson e a Revolução pela Inteligência Artificial](https://www.youtube.com/watch?v=RL2NuYu4DpA)
 
-## Books
-
-* [Learning IBM Watson Analytics](https://www.amazon.com/Learning-Watson-Analytics-James-Miller/dp/1785880772) by James Miller
-
-## Starter Projects
-
-* [Starter Kits](https://www.ibm.com/watson/developercloud/starter-kits.html)
-* [Sample application demonstrating how the Watson APIs can be used to support customer care on Twitter](https://github.com/watson-developer-cloud/social-customer-care)
-
-## Projects
-
-* [Chatagram](https://github.com/karanchahal/Chatagram)
-* [IBM Open Source](http://ibm.github.io)
-
-## Examples
-
-* [Watson Conversation](https://conversation-demo.mybluemix.net/)
-* [Watson Discovery](https://discovery-news-demo.mybluemix.net/)
-* [Watson Visual Recognition](https://visual-recognition-demo.ng.bluemix.net/)
-* [Watson NLU](https://natural-language-understanding-demo.mybluemix.net/)
-* [Watson NLC](https://natural-language-classifier-demo.mybluemix.net/)
-* [Watson Speech to Text](https://speech-to-text-demo.mybluemix.net/)
-* [Watson Text to Speech](https://text-to-speech-demo.mybluemix.net/)
-* [Watson Personality Insights](https://personality-insights-livedemo.mybluemix.net/)
-* [Watson Tone Analyzer](https://tone-analyzer-demo.mybluemix.net/)
-* [Watson Language Translator](https://language-translator-demo.mybluemix.net/)
-* [IBM Chef Watson](https://www.ibmchefwatson.com/tupler)
-
-## Newsletters
-
-* [developerWorks Newsletters](https://www.ibm.com/developerworks/newsletter/)
-
-## Podcasts
-
-* [IBM Watson player.fm](https://player.fm/series/ibm-watson)
-
 ## Webinars 
 
 * [IBM Webbinars](https://www.ibm.com/watson/webinars/)
-
-## Community
-
-* [IBM Forum](https://developer.ibm.com/answers/topics/watson/)
-* [StackoverFlow](https://stackoverflow.com/questions/tagged/ibm-watson-cognitive)
-
-## Meetups
-
-* [All Meetups](https://www.meetup.com/topics/ibm-watson/)
-
-## Events
-
-* [BlueOpen](https://www.blueopen.org)
 
 ## Contributing
 
