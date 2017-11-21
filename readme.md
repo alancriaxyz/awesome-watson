@@ -1,26 +1,25 @@
 <center>
 	
-![watson logo](http://colstonconsulting.co.uk/wp-content/uploads/2016/05/ibm-watson.png)
-
-</center>
+![watson logo](https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png)
 
 <hr />
 
-<center><h1> Awesome Watson</h1></center>
-<center>[![Build Status](https://api.travis-ci.org/carlosalan/awesome-watson.svg?branch=master)](https://travis-ci.org/carlosalan/awesome-watson)</center>
+<h1> Awesome Watson</h1>
+
+[![Build Status](https://api.travis-ci.org/carlosalan/awesome-watson.svg?branch=master)](https://travis-ci.org/carlosalan/awesome-watson)
+
+</center>
 
 
 ## About
-A collection of awesome .NET libraries, tools, frameworks, and software.
 
-Inspired by awesome-ruby, awesome-php, awesome-python, frontend-dev-bookmarks and ruby-bookmarks.
+A curated list of awesome bookmarks, tutorials, videos and other cool resources from the Watson ecosystem.
 
-Contributions are always welcome! Please take a look at the contribution guidelines and quality standard pages first. We accept proprietary and commercial software too.
+Inspired by <a href="https://github.com/aleksandar-todorovic/awesome-linux">awesome-linux</a>, <a href="https://github.com/quozd/awesome-dotnet">awesome-dotnet</a> and <a href="https://github.com/chiraggude/awesome-laravel">awsome-laravel.</a>
+
+Contributions are always welcome! <a href="contributing.md">Contribution guide.</a>
 
 Thanks to all contributors, you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
-
-	<a href="https://github.com/sindresorhus/awesome/blob/master/awesome.md">What is an awesome list?</a> <•>
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 
 ## Table of Contents
 
