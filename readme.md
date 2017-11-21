@@ -2,6 +2,8 @@
 	
 ![watson logo](https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png)
 
+</center>
+
 <hr />
 
 <h1> Awesome Watson</h1>
