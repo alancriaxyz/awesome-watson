@@ -1,4 +1,4 @@
-<center>![linux graphic](http://colstonconsulting.co.uk/wp-content/uploads/2016/05/ibm-watson.png)</center>
+![watson logo](http://colstonconsulting.co.uk/wp-content/uploads/2016/05/ibm-watson.png)
 
 <hr />
 
