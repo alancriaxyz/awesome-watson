@@ -1,3 +1,4 @@
+<center>
 ![watson logo](http://colstonconsulting.co.uk/wp-content/uploads/2016/05/ibm-watson.png)
 
 <hr />
