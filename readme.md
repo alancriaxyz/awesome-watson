@@ -2,7 +2,7 @@
 	
 ![watson logo](https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png)
 
-<h1> Awesome Watson</h1>
+# Awesome Watson
 
 [![Build Status](https://api.travis-ci.org/carlosalan/awesome-watson.svg?branch=master)](https://travis-ci.org/carlosalan/awesome-watson)
 
