@@ -1,6 +1,6 @@
 <center>
 	
-![watson logo](http://www.crescointl.com/wp-content/uploads/2015/05/IBM-watson-analytics.png)
+![watson logo](http://colstonconsulting.co.uk/wp-content/uploads/2016/05/ibm-watson.png)
 
 </center>
 
