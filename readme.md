@@ -35,7 +35,10 @@ Thanks to all contributors, you're awesome and wouldn't be possible without you!
 
 ## Blogs
 
-* [IBM Blog](https://www.ibm.com/blogs/watson/) - Official blog
+* [IBM Blog](https://www.ibm.com/blogs/watson/)
+
+Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem 
+
 * [IBM Watson Data Lab](https://medium.com/ibm-watson-data-lab)
 
 ## Books
