@@ -4,6 +4,8 @@
 <h1>Awesome Watson</h1>
 </p>
 
+<h1 align="center">This is heading 1</h1>
+
 [![Build Status](https://api.travis-ci.org/carlosalan/awesome-watson.svg?branch=master)](https://travis-ci.org/carlosalan/awesome-watson)
 
 
