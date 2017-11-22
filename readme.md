@@ -6,6 +6,10 @@
 
 [![Build Status](https://api.travis-ci.org/carlosalan/awesome-watson.svg?branch=master)](https://travis-ci.org/carlosalan/awesome-watson)
 
+    <a href="https://github.com/mhinz/vim-galore"> 
+        <img src="https://img.shields.io/badge/Version:-Original-blue.svg" alt="version: original" /> 
+    </a> 
+
 ## About
 
 A curated list of awesome bookmarks, tutorials, videos and other cool resources from the Watson ecosystem.
@@ -117,18 +121,6 @@ Thanks to all contributors, you're awesome and wouldn't be possible without you!
 ## Webinars 
 
 * [IBM Webbinars](https://www.ibm.com/watson/webinars/)
-
-## Contributing
-
-Found an awesome package, blog, video etc.? Send me a pull request!
-
-#### Guidelines
-
-* Please make an individual pull request for each suggestion
-* Make sure the Travis tests pass on your pull request
-* Use the following format for links: \[Resource\]\(URL\)
-* Want to suggest a package? Read the [Contribution Guide](contributing.md)
-* New categories or improvements to the existing categorization are welcome
 
 # License
 
