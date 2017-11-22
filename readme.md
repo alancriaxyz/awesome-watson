@@ -36,10 +36,11 @@ Thanks to all contributors, you're awesome and wouldn't be possible without you!
 ## Blogs
 
 * [IBM Blog](https://www.ibm.com/blogs/watson/) - Official blog
+* [IBM Watson Data Lab](https://medium.com/ibm-watson-data-lab)
 
 ## Books
 
-* [09/2017 - Business Intelligence in Healthcare with IBM Watson Analytics](https://www.amazon.com/Business-Intelligence-Healthcare-Watson-Analytics/dp/1548829897/ref=sr_1_1?s=books&ie=UTF8&qid=1511314642&sr=1-1&keywords=Business+Intelligence+in+Healthcare+with+IBM+Watson+Analytic)
+* [09/2017 - Business Intelligence in Healthcare with IBM Watson Analytics](https://www.amazon.com/Business-Intelligence-Healthcare-Watson-Analytics/dp/1548829897)
 * [06/2016 - Learning IBM Watson Analytics](https://www.amazon.com/Learning-Watson-Analytics-James-Miller/dp/1785880772)
 
 ## Community
@@ -123,5 +124,3 @@ Thanks to all contributors, you're awesome and wouldn't be possible without you!
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Carlos Alan](https://github.com/carlosalan) has waived all copyright and related or neighboring rights to this work.
-
-
