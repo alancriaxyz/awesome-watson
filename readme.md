@@ -10,7 +10,7 @@
 
 A curated list of awesome bookmarks, tutorials, videos and other cool resources from the Watson ecosystem.
 
-> Inspired by <a href="https://github.com/aleksandar-todorovic/awesome-linux">awesome-linux</a>, <a href="https://github.com/quozd/awesome-dotnet">awesome-dotnet</a> and <a href="https://github.com/chiraggude/awesome-laravel">awsome-laravel.</a>
+> Inspired by <a href="https://github.com/aleksandar-todorovic/awesome-linux">awesome-linux</a>, <a href="https://github.com/quozd/awesome-dotnet">awesome-dotnet</a> and <a href="https://github.com/chiraggude/awesome-laravel">awsome-laravel</a>.
 
 Contributions are always welcome! <a href="contributing.md">Contribution guide.</a>
 
