@@ -6,10 +6,6 @@
 
 [![Build Status](https://api.travis-ci.org/carlosalan/awesome-watson.svg?branch=master)](https://travis-ci.org/carlosalan/awesome-watson)
 
-    <a href="https://github.com/mhinz/vim-galore"> 
-        <img src="https://img.shields.io/badge/Version:-Original-blue.svg" alt="version: original" /> 
-    </a> 
-
 ## About
 
 A curated list of awesome bookmarks, tutorials, videos and other cool resources from the Watson ecosystem.
