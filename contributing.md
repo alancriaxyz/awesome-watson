@@ -2,7 +2,7 @@
 
 Contributions are welcome, and are accepted via pull requests. Please review these guidelines before submitting any pull requests.
 
-## Adding to the list of Popular Packages
+## Adding to the list
 
 Please ensure your pull request adheres to the following guidelines:
 
