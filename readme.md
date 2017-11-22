@@ -36,9 +36,6 @@ Thanks to all contributors, you're awesome and wouldn't be possible without you!
 ## Blogs
 
 * [IBM Blog](https://www.ibm.com/blogs/watson/)
-
-Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem 
-
 * [IBM Watson Data Lab](https://medium.com/ibm-watson-data-lab)
 
 ## Books
@@ -108,7 +105,7 @@ Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lo
 
 * [IBM Webbinars](https://www.ibm.com/watson/webinars/)
 
-# License
+## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
