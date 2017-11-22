@@ -102,21 +102,7 @@ Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lo
 
 ## Videos
 
-### English
-
-#### YouTube channels
-
-* [IBMWatsonSolutions](https://www.youtube.com/user/IBMWatsonSolutions)
-
-### Brazilian Portuguese 
-
-#### YouTube channels
-
-* [IBMbrasil](https://www.youtube.com/user/IBMbrasil)
-
-#### Overview
-
-* [IBM Watson e a Revolução pela Inteligência Artificial](https://www.youtube.com/watch?v=RL2NuYu4DpA)
+* [YouTube channel](https://www.youtube.com/user/IBMWatsonSolutions)
 
 ## Webinars 
 
