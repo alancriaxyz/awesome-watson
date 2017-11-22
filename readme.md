@@ -18,7 +18,7 @@ Thanks to all contributors, you're awesome and wouldn't be possible without you!
 
 ## Table of Contents
 
-- [Articles, Tutorials, Blogs, etc.](#articles-tutorials-blogs-etc)
+- [Blogs](#blogs)
 - [Books](#books)
 - [Community](#community)
 - [Essentials](#essentials)
@@ -29,14 +29,13 @@ Thanks to all contributors, you're awesome and wouldn't be possible without you!
 - [Podcasts](#podcasts)
 - [Projects](#projects)
 - [Social Media](#social-media)
+- [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Webinars](#webinars)
 
-## Articles, Tutorials, Blogs etc.
+## Blogs
 
-* [Watson Blog](https://www.ibm.com/blogs/watson/)
-* [Mashable](http://mashable.com/category/ibm-watson/)
-* [Tutorials for IBM App Connect](https://developer.ibm.com/integration/docs/app-connect/tutorials-for-ibm-app-connect/)
+* [IBM Blog](https://www.ibm.com/blogs/watson/) - Official blog
 
 ## Books
 
