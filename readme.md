@@ -39,7 +39,9 @@ Thanks to all contributors, you're awesome and wouldn't be possible without you!
 
 ## Books
 
-* [Learning IBM Watson Analytics](https://www.amazon.com/Learning-Watson-Analytics-James-Miller/dp/1785880772) by James Miller
+* 09/2017 - [Business Intelligence in Healthcare with IBM Watson Analytics](https://www.amazon.com/Learning-Watson-Analytics-James-Miller/dp/1785880772) - James Miller
+* [Learning IBM Watson Analytics](https://www.amazon.com/Learning-Watson-Analytics-James-Miller/dp/1785880772) - James Miller
+* [Smart Machines: IBM's Watson and the Era of Cognitive Computin](https://www.amazon.com/Smart-Machines-Cognitive-Computing-Publishing/dp/023116856X/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=XS3T7TWP61639Q871E9A) - Steve Hamm
 
 ## Community
 
