@@ -4,7 +4,7 @@
 
 <h1 align="center">Awesome Watson</h1>
 
-[![Build Status](https://api.travis-ci.org/alan86alves/awesome-watson.svg?branch=master)](https://travis-ci.org/carlosalan/awesome-watson)
+[![Build Status](https://api.travis-ci.org/alan86alves/awesome-watson.svg?branch=master)](https://travis-ci.org/alan86alves/awesome-watson)
 
 ## About
 
